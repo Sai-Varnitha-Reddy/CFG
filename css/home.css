@@ -79,11 +79,18 @@ li{
 .slide{
     margin-top:20px;
 }
-.container.bg-light {
-    background-color:rgba(220, 201, 241, 0.911);
+.bg-custom {
+     background-color:rgba(230, 216, 245, 0.781);
+  }
+  /* rgba(230, 216, 245, 0.911) */
+
+/* rgba(230, 216, 245, 0.781) */
+
+.bg-custom:hover{
+    background-color:rgba(230, 216, 245, 0.99);
 }
 
-
+/* background-color:rgba(230, 216, 245, 0.925); */
 
 
   
