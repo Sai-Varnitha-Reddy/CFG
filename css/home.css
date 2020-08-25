@@ -91,7 +91,35 @@ li{
 }
 
 /* background-color:rgba(230, 216, 245, 0.925); */
-
+.co {
+    position: relative;
+}
 
   
- 
+.text-block {
+    position: absolute;
+    bottom: 270px;
+    right: 100px;
+    left:100px;
+    text-align:center;
+    background-color:rgba(230, 216, 245, 0.781); 
+    color: rgb(155, 86, 187);
+    padding-left: 20px;
+    padding-right: 20px;
+    /* margin:300px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  } /* Bottom right text */
+  
+.about2{
+    background-color:rgba(172, 230, 215, 0.75);
+    margin:35px 0;
+}
+.about2 h5{
+    text-align: center;
+    font-weight: 550;
+    padding: 15px 50px;
+    color:rgb(113, 111, 235);
+}
