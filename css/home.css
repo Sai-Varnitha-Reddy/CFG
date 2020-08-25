@@ -123,3 +123,10 @@ li{
     padding: 15px 50px;
     color:rgb(113, 111, 235);
 }
+.s1 h2,p{
+    text-align:center;
+    padding-bottom:20px;
+}
+.s1{
+    background-color:rgba(241, 193, 227, 0.99);
+}
